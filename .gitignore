@@ -1,1 +1,3 @@
 /venv
+*.cpython-39.pyc
+migrations/
